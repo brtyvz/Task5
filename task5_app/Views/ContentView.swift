@@ -1,5 +1,5 @@
 //
-//  PlaylistsView.swift
+//  ContentView.swift
 //  task5_app
 //
 //  Created by Berat Yavuz on 3.09.2023.
