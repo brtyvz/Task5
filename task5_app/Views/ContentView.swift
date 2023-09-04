@@ -1,3 +1,11 @@
+//
+//  PlaylistsView.swift
+//  task5_app
+//
+//  Created by Berat Yavuz on 3.09.2023.
+//
+
+
 import SwiftUI
 
 struct ContentView: View {
